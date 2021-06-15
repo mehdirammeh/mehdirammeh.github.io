@@ -1,0 +1,19 @@
+h1{
+    font-size: 30px;
+    text-align: center;
+    color: blue;
+}
+
+body{
+    font-size: 16px;
+    font-family: helvetica, sans-serif;
+    color: cadetblue;
+    background-image: url(white-background.jpg);
+}
+ul li{
+    display: inline-block;
+}
+
+li{
+    list-style-type: none;
+}
